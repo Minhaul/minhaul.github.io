@@ -121,4 +121,7 @@ The solution here is to allow insertion to push items behind the insertion point
 
 And that’s about it! There are definitely some details that I glossed over, some polish still to be done, and I didn’t talk at all about the visuals (or the ~700 lines of code just for sprite placement and animation), but I think I covered most of the interesting challenges associated with making a great, simulation like conveyor belt system for a factory game.
 
-This blog is the first of hopefully many where I talk about the interesting challenges associated with developing this game. If you’re curious about anything, or want to be kept in the loop when I have more to share about this game, feel free to send me an email at [minhaul.creations@gmail.com](mailto:minhaul.creations@gmail.com), or find me on Discord by my username @minhaul. Thanks for reading!
+This blog is the first of hopefully many where I talk about the interesting challenges associated with developing this game. If you’re curious about anything, or want to be kept in the loop when I have more to share about this game, feel free to send me an email at [minhaul.creations@gmail.com](mailto:minhaul.creations@gmail.com), or find me on Discord by my username @minhaul.
+
+![]({{ site.baseurl }}/images/conveyor_belts/heart.gif)
+*Thanks for reading!*
